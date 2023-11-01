@@ -1,0 +1,3 @@
+It contains the splash screen activity of Android development.
+In this i got to know about the splash screen in activity Android that how splash screen activity works in Android, how to change the manifest file according to it, 
+how to set the duration of the splash activity...
